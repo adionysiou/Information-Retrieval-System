@@ -6,7 +6,6 @@ The program displays the following action menu once its started.
 
 Welcome to wine search engine.
 Main menu: (Select an option by giving the number of bullet and pressing enter.)
-----------
 1. Create new collection (Type '1').
 2. Delete a collection (Type '2').
 3. Insert a document to a specified collection (Type '3').
