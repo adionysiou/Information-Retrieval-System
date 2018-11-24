@@ -32,3 +32,5 @@ The program is composed by 5 classes each one serving a different purpose.
 The stoplist.txt contains the stop words that are removed in tokenization process of documents.
 
 The program is licenced under the GNU's general public licence.
+
+The folder JavaDoc contains the Javadoc documentation for the project.
