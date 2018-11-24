@@ -1,2 +1,2 @@
 # BooleanSearchEngine
-This project represents a simple, yet robust Boolean search engine.
+This project represents a simple, yet robust, Boolean search engine. The program (written in Java) represents a basic search engine that creates a positional inverted index for storing the documents data for each data collection. Furthermore, the user is able to execure Boolean queries (AND, OR, NOT) of arbitary size on a specific collection. This project has been created to represent the fundamental data structures and functions of a typical state-of-the-art searh engine. The search engine implementation has been tested on a benchmark dataset regarding wine reviews retrieved fromm Kaggle (https://www.kaggle.com/zynicide/wine-reviews/data).
